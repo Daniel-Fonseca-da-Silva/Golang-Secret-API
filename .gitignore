@@ -1,0 +1,16 @@
+# Binaries
+uploads/*
+assets/*
+
+*.exe
+*.dll
+*.so
+*.dylib
+*.idea
+*.txt
+
+# Coverage
+*.out
+
+# Environment variables
+.env*
